@@ -1,0 +1,9 @@
+# mysql configuration
+mysql:
+  host: '127.0.0.1'
+  port: '3306'
+  username: 'root'
+  password: '11915445'
+  dbname: 'fuse'
+  max-idle-conns: '10'
+  max-open-conns: '10'
